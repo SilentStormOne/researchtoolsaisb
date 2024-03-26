@@ -1,0 +1,4 @@
+.venv
+.vscode
+.git
+git-filter-repo

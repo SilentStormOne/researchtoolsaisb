@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-research-finder"
+version = "0.1.0"
+description = "Uses NLP, feature extraction, semantic context analysis and a fine-tuned extended transformer model class (ALBERT) to make an AI tool that finds research gaps, challenges, limitations, problems from research papers from a search query."
+authors = [{ name = "Sreeram Biju", email = "sreerambiju4@gmail.com" }]
+license = { file = "LICENSE.txt" }
+readme = "README.md"
+keywords = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.11"
+dependencies = [
+    "evaluate",
+    "PyMuPDF",
+    "Flask",
+    "gensim",
+    "imbalanced-learn",
+    "nltk",
+    "numpy",
+    "optuna",
+    "pandas",
+    "regex",
+    "requests",
+    "sentence-transformers",
+    "scikit-learn",
+    "torch",
+    "tqdm",
+    "transformers",
+]

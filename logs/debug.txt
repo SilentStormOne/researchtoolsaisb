@@ -1,0 +1,15 @@
+2024-03-25 09:05:39,522 - DEBUG - matplotlib data path: C:\Users\sreer\Documents\Learn Pytorch\.venv\Lib\site-packages\matplotlib\mpl-data
+2024-03-25 09:05:39,527 - DEBUG - CONFIGDIR=C:\Users\sreer\.matplotlib
+2024-03-25 09:05:39,528 - DEBUG - interactive is False
+2024-03-25 09:05:39,528 - DEBUG - platform is win32
+2024-03-25 09:05:39,586 - DEBUG - CACHEDIR=C:\Users\sreer\.matplotlib
+2024-03-25 09:05:39,588 - DEBUG - Using fontManager instance from C:\Users\sreer\.matplotlib\fontlist-v330.json
+2024-03-25 09:05:39,954 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-03-25 09:05:40,853 - DEBUG - https://huggingface.co:443 "HEAD /albert-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2024-03-25 09:05:41,276 - DEBUG - https://huggingface.co:443 "HEAD /albert-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-03-25 09:05:42,459 - DEBUG - https://huggingface.co:443 "HEAD /albert-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2024-03-25 09:05:42,577 - INFO - loading KeyedVectors object from models/word2vec_model.model
+2024-03-25 09:05:42,577 - DEBUG - {'uri': 'models/word2vec_model.model', 'mode': 'rb', 'buffering': -1, 'encoding': None, 'errors': None, 'newline': None, 'closefd': True, 'opener': None, 'compression': 'infer_from_extension', 'transport_params': None}
+2024-03-25 09:05:42,579 - INFO - loading wv recursively from models/word2vec_model.model.wv.* with mmap=None
+2024-03-25 09:05:42,579 - INFO - setting ignored attribute cum_table to None
+2024-03-25 09:05:42,593 - INFO - Word2Vec lifecycle event {'fname': 'models/word2vec_model.model', 'datetime': '2024-03-25T09:05:42.584922', 'gensim': '4.3.2', 'python': '3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)]', 'platform': 'Windows-10-10.0.22635-SP0', 'event': 'loaded'}

@@ -1,0 +1,33 @@
+{
+
+    "model_name": "all-MiniLM-L6-v2",
+    "relevance_threshold": 0.32,
+    "dataset_path": "logs/dataset.csv",
+    "annotated_dataset_path": "logs/annotated_dataset.csv",
+    "log_file_path": "logs/debug.txt",
+    "keywords": [
+        "problem",
+        "challenge",
+        "limitation",
+        "gap",
+        "obstacle",
+        "issue",
+        "drawback",
+        "difficulty",
+        "future work",
+        "yet to be explored",
+        "unaddressed"
+    ],
+    "template_sentences": [
+        "This study addresses the significant gap in understanding of...",
+        "Despite previous efforts, the problem of X remains unsolved...",
+        "Future work should focus on overcoming this critical challenge...",
+        "Despite increased global awareness of plastic pollution, microplastics have emerged as a pervasive environmental problem. These minute particles, often smaller than 5mm in diameter, are not only difficult to remove from the environment but also pose a significant threat to aquatic life. The mechanisms through which microplastics enter ecosystems, alongside their long-term ecological impacts, remain poorly understood. Current research on microplastic pollution is limited by a lack of standardized methodologies for sampling, identification, and quantification of particles. Additionally, the ecological impacts of microplastics, particularly their bioaccumulation and effects on the food web, are not fully elucidated. There is a critical need for comprehensive studies on the long-term effects of microplastics on both marine and terrestrial ecosystems.",
+        "Machine learning models are increasingly utilized in decision-making processes; however, these models can perpetuate and even exacerbate existing biases. Biases in training data, algorithms, and interpretation processes can lead to unfair outcomes, particularly in sensitive applications such as hiring, law enforcement, and loan approval. One major limitation is the lack of transparency and interpretability of complex machine learning models, making it challenging to identify and rectify sources of bias. Furthermore, there is a significant research gap in developing robust methodologies to detect, measure, and mitigate bias in AI systems across diverse contexts and datasets.",
+        "The rise of antibiotic-resistant bacteria represents a looming public health crisis. Overuse and misuse of antibiotics in healthcare and agriculture have accelerated the evolution of resistant strains, rendering standard treatments ineffective and leading to increased mortality rates. Research is hindered by a paucity of novel antibiotics in development, coupled with a limited understanding of resistance mechanisms. Additionally, there is a global disparity in surveillance and reporting of antibiotic resistance, complicating efforts to assess and respond to this issue effectively.",
+        "As the world transitions to renewable energy sources, the intermittent nature of technologies like solar and wind power necessitates advanced energy storage solutions. Current storage technologies, such as lithium-ion batteries, face challenges in capacity, lifespan, and environmental impact. Research on alternative storage technologies, including flow batteries and supercapacitors, is still in early stages. There is a need for breakthroughs in materials science to develop cost-effective, durable, and environmentally friendly storage options. Additionally, the integration of storage solutions with existing grid infrastructure presents logistical and technical challenges.",
+        "The shift towards digital learning platforms has highlighted the significant digital divide affecting students in underprivileged regions. Access to reliable internet and digital devices is unevenly distributed, exacerbating educational inequalities. Studies on the impact of digital learning often overlook long-term outcomes and fail to account for variances in access among different populations. There is a pressing need for comprehensive research on strategies to bridge the digital divide and ensure equitable access to education.",
+        "Urban heat islands (UHIs) exacerbate the effects of global warming in city environments, leading to higher temperatures compared to surrounding rural areas. These elevated temperatures increase energy consumption, air conditioning costs, and heat-related illnesses and mortality. Current strategies to mitigate UHIs, such as green roofing and increased vegetation, are limited by urban planning and infrastructure constraints. There is a lack of longitudinal studies assessing the effectiveness of these interventions across different climates and urban settings.",
+        "Aging is associated with cognitive decline and increased risk of neurodegenerative diseases. Understanding the biological processes that drive brain aging is crucial for developing interventions to maintain cognitive health in the elderly. Research in this area is hampered by the complexity of the brain and the difficulty of translating findings from animal models to humans. Moreover, there is a need for longitudinal studies to identify early markers of cognitive decline and potential neuroprotective strategies."
+    ]
+}
