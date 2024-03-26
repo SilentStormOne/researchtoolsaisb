@@ -10,4 +10,4 @@ Project for NSRC Competition Qatar by Sreeram Biju and Haseen Feroze.
 7. Perform `pip install -r requirements.txt` to install libraries required.
 
 # FINAL MODEL EVALUATION OUTPUT
-Due to time constraints, we couldn't construct a graph of the output of our evaluation metrics system. Instead, here is the raw file which provides the training accuracy, training loss, evaluation accuracy and evaluation loss for the final model over 5 epochs (every 0.2-0.3 epochs) -> [trainer_state.json](models/final model/trainer_state.json)
+Due to time constraints, we couldn't construct a graph of the output of our evaluation metrics system. Instead, here is the raw file which provides the training accuracy, training loss, evaluation accuracy and evaluation loss for the final model over 5 epochs (every 0.2-0.3 epochs) -> [trainer_state.json](models/final%20model/trainer_state.json)
