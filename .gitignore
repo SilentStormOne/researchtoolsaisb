@@ -1,4 +1,6 @@
 .venv
 .vscode
 .git
+models\good model
+models\model with more word2vec parameters
 git-filter-repo
